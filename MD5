@@ -1,0 +1,16 @@
+6595e059de808dfd2f5bf8b17e19a18e *DESCRIPTION
+02a2ce9c239da240b0f40d6a25ded23a *LICENSE
+ff1becfa56bd959f1a275531ff4eead4 *NAMESPACE
+03c1dca4ae1de0ddee0b3e3900cd2fd4 *R/TPDM.R
+d4c629f2832bffab2656e55e433a175f *R/data.R
+f52ae9a817364025b520e79e99c2632b *data/precipGER.RData
+e7a21b477112320e10167576fb9a286a *man/compute.EPI.Rd
+dcd5d98e76307ef8f9fd1ffe59a89356 *man/decls.Rd
+9822ffb68171e89f6a7ecb36b7460bdf *man/est.tpdm.Rd
+abe3eb6aaa60b584b83fe27f94603d16 *man/invTrans.Rd
+59ad95dccb5cae2df3c877a1fa25faf5 *man/pca.tpdm.Rd
+9811fd5a0f5ece4469129d8eec9e41e7 *man/precipGER.Rd
+c338e7596a306f53c92454c9ef63acec *man/svd.tpdm.Rd
+0a1a05bfd70540a6a499ad8ea37e042e *man/to.alpha.2.Rd
+0ddc362aa848a079c5939f71f0234313 *man/trans.Rd
+c475a51b6c8ba9922dea378499b49ffe *man/wrapper.EPI.Rd
